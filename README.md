@@ -1,6 +1,6 @@
 # README
 
-This is a rails app for git demonstration
+#This is a rails app for git demonstration
 Things you may want to cover:
 
 * Ruby version
